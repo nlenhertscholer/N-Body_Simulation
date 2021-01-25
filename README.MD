@@ -40,6 +40,3 @@ Three shell scripts are provided to run the GUI (*[runGUI.sh](proj3/runGUI.sh)*)
 (*[runConsole_seq.sh](proj3/runConsole_seq.sh)*), and parallel
 (*[runConsole_par.sh](proj3/runConsole_par.sh)*) versions on some test
 data.
-
-Thank you for the great class!
-
