@@ -29,6 +29,9 @@ to run. If in console mode, setting this to `0` will run the program in sequenti
 For GUI mode, this number needs to be greater than `0` since it supports both parallel
 and sequential mode. 
 
+In GUI mode, press key `SPACE` to change between Sequential and Parallel modes. Press key `B`
+to show the internal Barnes-Hut Tree.
+
 Data can be generated using [generate.go](proj3/generate.go). Here, the only arguments
 are the number of objects to create, and the dimensions. Make sure that the dimensions
 used to generate the data are the same as the dimensions when running the program.
